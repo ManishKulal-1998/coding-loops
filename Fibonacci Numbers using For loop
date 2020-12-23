@@ -1,7 +1,7 @@
 num=int(input("Enter the number of digits:")
 first=0
 second=1
-print("\n fibonacci gigits are:")
+print("\n fibonacci digits are:")
 print(first, "," , second,end=",")
 for i in range(2,num):
     next=first+second
